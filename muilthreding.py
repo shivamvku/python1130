@@ -6,7 +6,6 @@
 # def cube():
 # 	print('the cube of the number is ',num**3)
 
-
 # if __name__ == '__main__':
 # 	thrad1 = threading.Thread(target = suqure,args=(2,))
 # 	thrad2 = threading.Thread(target = suqure,args=(5,))
